@@ -2,7 +2,7 @@
 
 One OpenAI-compatible endpoint, reachable from mainland China and from outside it.
 
-Site and docs — <https://aicraftapi.com>
+Site and docs — <https://aicraftapi.net>
 Contact — contact@aicraftapi.com
 
 ## Getting the model list
@@ -10,7 +10,7 @@ Contact — contact@aicraftapi.com
 `GET /v1/models` with your key returns the ids your key can actually call. Use that list rather than a table copied from anywhere, ours included — it changes.
 
 ```bash
-curl https://aicraftapi.com/v1/models \
+curl https://aicraftapi.net/v1/models \
   -H "Authorization: Bearer $AICRAFT_API_KEY"
 ```
 
