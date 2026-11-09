@@ -16,6 +16,6 @@ curl https://aicraftapi.net/v1/models \
 
 ## In the community
 
-- **Codewhale** — contributed the AICraft provider row and its documentation upstream, and keeps the model catalog in [issue #6304](https://github.com/codewhale-hq/Codewhale/issues/6304) current. Credited in `docs/CONTRIBUTORS.md`.
+- **models.dev** — the AICraft provider entry is proposed in [PR #10219](https://github.com/anomalyco/models.dev/pull/10219) (open), built from the published catalog and pricing.
 - **[china-llm-gateway](https://github.com/BX166/china-llm-gateway)** — notes on calling Chinese model APIs from outside China.
 - **[aicraft-api-samples](https://github.com/BX166/aicraft-api-samples)** — minimal runnable examples.
