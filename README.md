@@ -2,7 +2,8 @@
 
 One OpenAI-compatible endpoint, reachable from mainland China and from outside it.
 
-Site and docs — <https://aicraftapi.net>
+International site and docs — <https://aicraftapi.net>
+Domestic site (mainland China) — <https://aicraftapi.com>
 Contact — contact@aicraftapi.com
 
 ## Getting the model list
